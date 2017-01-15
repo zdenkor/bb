@@ -1,8 +1,8 @@
 # bb (aka beer brewer)
 Cheap beer brewing electronics
-The goal is make and program a very cheap electronic, based on arduino, that will automate home beer brew.
+The goal is make and program a very cheap electronic based on arduino, that will automate home beer brew. Every step of rewing can be easily defined by changing the INI file, that is store on SD card.
 
-# Hardware parts
+# Hardware parts for electronics
 1x Arduino Nano
 1x I2C LCD 2004
 1x 4 Channel Relay Board Module
@@ -15,3 +15,6 @@ The goal is make and program a very cheap electronic, based on arduino, that wil
 1x 40pcs Jumper Wire Cable Female-Female 2.54mm 10cm
 aditional: 1x ESP8266 Remote WiFI Wireless Transceiver Module
 Total price on ebay about 20 USD
+
+# Software code
+Arduino IDE 1.6.0 or newer. NOTE: Some version has a bugs (like 1.8.0 with SD card module). The code was tested on 1.6.0
