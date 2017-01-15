@@ -20,6 +20,6 @@ Total price on ebay about 20 USD
 Arduino IDE 1.6.0 or newer. NOTE: Some version has a bugs (like 1.8.0 with SD card module). The code was tested on 1.6.0
 
 # 2do
-* define universal INI file for very step
+* define universal INI file for every step
 * program the code without
 * add web server
