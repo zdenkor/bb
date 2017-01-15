@@ -1,5 +1,5 @@
 # bb (aka beer brewer)
-Cheap beer brewing electronics
+Cheap beer brewing electronics.
 The goal is make and program a very cheap electronic based on arduino, that will automate home beer brew. Every step of rewing can be easily defined by changing the INI file, that is store on SD card and possibility to watch and interfere to the program with web viewer.
 
 # Hardware parts for electronics
