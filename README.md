@@ -13,8 +13,7 @@ The goal is make and program a very cheap electronic based on arduino, that will
 * 1x Nano I / O Expansion sensor Shield Module
 * 1x Power Supply Module 3.3V/5V For Arduino
 * 1x 40pcs Jumper Wire Cable Female-Female 2.54mm 10cm
-aditional: 
-* 1x ESP8266 Remote WiFI Wireless Transceiver Module
+* 1x ESP8266 Remote WiFI Wireless Transceiver Module (optional)
 Total price on ebay about 20 USD
 
 # Software code
